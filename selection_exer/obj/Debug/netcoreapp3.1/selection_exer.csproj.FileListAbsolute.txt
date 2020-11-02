@@ -1,0 +1,13 @@
+C:\Users\Cameron Kellett\Skoo\GIT\repos\selection_exer\selection_exer\bin\Debug\netcoreapp3.1\selection_exer.exe
+C:\Users\Cameron Kellett\Skoo\GIT\repos\selection_exer\selection_exer\bin\Debug\netcoreapp3.1\selection_exer.deps.json
+C:\Users\Cameron Kellett\Skoo\GIT\repos\selection_exer\selection_exer\bin\Debug\netcoreapp3.1\selection_exer.runtimeconfig.json
+C:\Users\Cameron Kellett\Skoo\GIT\repos\selection_exer\selection_exer\bin\Debug\netcoreapp3.1\selection_exer.runtimeconfig.dev.json
+C:\Users\Cameron Kellett\Skoo\GIT\repos\selection_exer\selection_exer\bin\Debug\netcoreapp3.1\selection_exer.dll
+C:\Users\Cameron Kellett\Skoo\GIT\repos\selection_exer\selection_exer\bin\Debug\netcoreapp3.1\selection_exer.pdb
+C:\Users\Cameron Kellett\Skoo\GIT\repos\selection_exer\selection_exer\obj\Debug\netcoreapp3.1\selection_exer.csprojAssemblyReference.cache
+C:\Users\Cameron Kellett\Skoo\GIT\repos\selection_exer\selection_exer\obj\Debug\netcoreapp3.1\selection_exer.AssemblyInfoInputs.cache
+C:\Users\Cameron Kellett\Skoo\GIT\repos\selection_exer\selection_exer\obj\Debug\netcoreapp3.1\selection_exer.AssemblyInfo.cs
+C:\Users\Cameron Kellett\Skoo\GIT\repos\selection_exer\selection_exer\obj\Debug\netcoreapp3.1\selection_exer.csproj.CoreCompileInputs.cache
+C:\Users\Cameron Kellett\Skoo\GIT\repos\selection_exer\selection_exer\obj\Debug\netcoreapp3.1\selection_exer.dll
+C:\Users\Cameron Kellett\Skoo\GIT\repos\selection_exer\selection_exer\obj\Debug\netcoreapp3.1\selection_exer.pdb
+C:\Users\Cameron Kellett\Skoo\GIT\repos\selection_exer\selection_exer\obj\Debug\netcoreapp3.1\selection_exer.genruntimeconfig.cache
